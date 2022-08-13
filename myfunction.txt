@@ -1,3 +1,7 @@
 one function - one function has been added
 two function - another function has been added
 three function - next function has been added
+
+
+mistakefun1 - has been added
+mistakefun2 - also has been added
