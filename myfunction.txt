@@ -1,6 +1,10 @@
-one function - one function has been added
+one function - one very very function has been added
 two function - another function has been added
 three function - next function has been added
 
 
 added chart function in our branch
+
+
+
+added a code for doing logout
